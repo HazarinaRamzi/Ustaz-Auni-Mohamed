@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mgid.com	TRUE	/	FALSE	1999999999	__cf_bm	Bb4pWiej3M.Ot0ChoWhLtiy1Uiy4su.fIfPtJkPcbso-1716286495-1.0.1.1-My9WClzwKBYwVpe43zTi89IkV8Ht6B_DK1rBgiG50NoLohpS2z7nOeDZ_HVyHmPvcX0RppZiXoyehj8eB7cyBg
+jsc.mgid.com	TRUE	/	FALSE	1999999999	SameSite	None
+
